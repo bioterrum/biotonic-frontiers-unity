@@ -1,0 +1,32 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uilds?/
+/[Bb]uild/
+/[[Ll]ogs/
+/[Mm]emoryCaptures/
+[Dd]ebug*/
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
+*.swp
+*.meta
+*.prefab
+*.so
+*.x86_64
+.DS_Store
+.env
+.github
+
+.vscode/
+
+run_me_Data/
+linux_Data/
+UserSettings/
+ProjectSettings/
+TextMesh Pro/
+Biotonic Frontiers_BurstDebugInformation_DoNotShip/
+Packages/
+Patches/
+Scenes/
