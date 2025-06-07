@@ -1,6 +1,7 @@
 # Biotonic Frontiers – Unity Client
 
-This is the **initial scaffold** generated from the Master Development Checklist.  Steps to run:
+This is the **initial scaffold** 
+Steps to run:
 
 1. Install **Unity 2023 LTS** (or newer) and open this folder.
 2. Ensure Text serialization + Visible meta files (see Project Settings → Editor).
